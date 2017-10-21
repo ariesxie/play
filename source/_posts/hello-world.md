@@ -10,7 +10,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ``` bash
 $ hexo new "yeah My New Postasdfasfaf"asdnfasndf
 ```
-![alt text](https://github.com/ariesxie/play/blob/master/img/mypicture.jpg)
+![](/Users/xiezhiyu/workspace/play/img/mypicture.jpg)
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
