@@ -1,6 +1,9 @@
 ---
-title: about Me
+title: About Me
 date: 2017-10-21 21:06:22
 ---
-<img src="https://raw.githubusercontent.com/ariesxie/play/master/img/mypicture.jpg" width="50%" height="50%">
+Facebook:[https://www.facebook.com/profile.php?id=100013870663651](https://www.facebook.com/profile.php?id=100013870663651)
 
+github:[https://github.com/ariesxie](https://github.com/ariesxie)
+
+Line ID:a9533066
