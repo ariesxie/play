@@ -10,7 +10,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ``` bash
 $ hexo new "yeah My New Postasdfasfaf"asdnfasndf
 ```
-![789](file:/Users/xiezhiyu/workspace/play/img/mypicture.jpg)
+![222](https://raw.githubusercontent.com/ariesxie/play/master/img/mypicture.jpg)
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
