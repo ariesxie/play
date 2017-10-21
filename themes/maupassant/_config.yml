@@ -45,7 +45,7 @@ menu:
     directory: archives/
     icon: fa-archive
   - page: about
-    directory: about/
+    directory: _posts/
     icon: fa-user
   - page: rss
     directory: atom.xml
