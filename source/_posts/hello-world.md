@@ -12,6 +12,8 @@ $ hexo new "yeah My New Postasdfasfaf"asdnfasndf
 ```
 ![222](https://raw.githubusercontent.com/ariesxie/play/master/img/mypicture.jpg)
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kmNHKTZkvAQ" frameborder="0" allowfullscreen></iframe>
+
 More info: [Writing](https://hexo.io/docs/writing.html)
 
 ### Run server
