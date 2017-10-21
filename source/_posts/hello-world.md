@@ -8,7 +8,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ### yeah this is for fun
 
 ``` bash
-$ hexo new "yeah My New Post"
+$ hexo new "yeah My New Postasdfasfaf"asdnfasndf
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
