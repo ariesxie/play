@@ -9,7 +9,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 
 ``` bash
 $ hexo new "yeah My New Postasdfasfaf"asdnfasndf
-![Alt text](img/mypicture.jpg)
+<img> (img/mypicture.jpg)
 ```
 
 More info: [Writing](https://hexo.io/docs/writing.html)
