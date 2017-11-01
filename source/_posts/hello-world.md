@@ -1,5 +1,9 @@
 ---
-title: Test Zone
+title: Test page
+tags: 
+ - 練習
+ - 隨便玩玩
+category: 練習
 ---
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
@@ -8,7 +12,7 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ### yeah this is for fun
 
 ``` bash
-$ hexo new "yeah My New Postasdfasfaf"asdnfasndf
+$ hexo new "yeah uhioigigasdfasfaf"asdnfasndf
 ```
 <img src="https://raw.githubusercontent.com/ariesxie/play/master/img/mypicture.jpg" width="50%" height="50%">
 
@@ -39,3 +43,4 @@ $ hexo deploy
 ```
 
 More info: [Deployment](https://hexo.io/docs/deployment.html)
+
