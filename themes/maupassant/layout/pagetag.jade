@@ -1,0 +1,10 @@
+extend base
+block title
+  title= page.title
+block content
+   .post
+   h1.post-title= page.title
+    .post-content
+   .tagcloud
+       != list_tags({show_count: theme.show_tag_count})
+ 
