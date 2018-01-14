@@ -12,11 +12,8 @@ Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [docume
 ### yeah this is for fun
 
 ``` bash
-$ hexo new "yeah uhioigigasdfasfaf"asdnfasndf
+$ hexo new "123"
 ```
-<img src="https://raw.githubusercontent.com/ariesxie/play/master/img/mypicture.jpg" width="50%" height="50%">
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kmNHKTZkvAQ" frameborder="0" allowfullscreen></iframe>
 
 More info: [Writing](https://hexo.io/docs/writing.html)
 
