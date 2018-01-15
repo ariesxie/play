@@ -46,7 +46,6 @@ menu:
     icon: fa-archive
   - page: 相關網站
     directory: about/
-    icon: fa-user
 
 widgets: ## Six widgets in sidebar provided: search, category, tag, recent_posts, rencent_comments and links.
   - search
