@@ -44,7 +44,7 @@ menu:
   - page: archive
     directory: archives/
     icon: fa-archive
-  - page: about
+  - page: 相關網站
     directory: about/
     icon: fa-user
 
