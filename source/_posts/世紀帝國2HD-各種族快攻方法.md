@@ -336,3 +336,8 @@ HCCCC
 蓋城堡，點馬戰車
 繼續生村民伐木
 點2級耕種、1級伐木、二級伐木
+
+<br><br>
+
+
+資料參考：https://forum.gamer.com.tw/C.php?bsn=1122&snA=11345
