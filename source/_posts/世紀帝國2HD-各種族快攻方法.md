@@ -12,7 +12,7 @@ category: 世紀帝國2HD
 
 <b>原理:</b>
 
-<div style="background-color:#8CF2EB">利用條頓農田便宜的特點提早種田，減少找不到8羊2豬4鹿的風險</div><br>
+<div style="background-color:#8CF2EB;width:435px">利用條頓農田便宜的特點提早種田，減少找不到8羊2豬4鹿的風險</div><br>
 <b><font color=blue>優點:</font></b><br>
   
 <div style="background-color:#8CF2EB;width:350px">不用找比較難找的鹿，豬也只需要一隻，較適合新手
