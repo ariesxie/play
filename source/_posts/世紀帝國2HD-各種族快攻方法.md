@@ -12,25 +12,25 @@ category: 世紀帝國2HD
 
 <b>原理:</b>
 
-<text style="background-color:#8CF2EB">利用條頓農田便宜的特點提早種田，減少找不到8羊2豬4鹿的風險</text><br>
+<div style="background-color:#8CF2EB">利用條頓農田便宜的特點提早種田，減少找不到8羊2豬4鹿的風險</div><br>
 <b><font color=blue>優點:</font></b><br>
   
-<text style="background-color:#8CF2EB">不用找比較難找的鹿，豬也只需要一隻，較適合新手
+<div style="background-color:#8CF2EB;width:350px">不用找比較難找的鹿，豬也只需要一隻，較適合新手
 公式簡單，容易背誦不易出錯
-城鎮中心視野廣，通常一開局就會發現羊群</text><br>
+城鎮中心視野廣，通常一開局就會發現羊群</div><br>
 
 <b><font color=red>缺點:</font></b><br>
 
-<text style="background-color:#8CF2EB">封建以前要特別注意隨時放肉不要斷村，並且記得蓋房，會失敗幾乎都是因為這個
-初期無法使用城堡兵也蓋不起城堡，遇到對方出剋馬的兵種很危險</text><br>
+<div style="background-color:#8CF2EB;width:550px">封建以前要特別注意隨時放肉不要斷村，並且記得蓋房，會失敗幾乎都是因為這個
+初期無法使用城堡兵也蓋不起城堡，遇到對方出剋馬的兵種很危險</div><br>
 
 
 <b>注意事項:</b>
 
-<text style="background-color:#8CF2EB">由於初期木頭很缺又要種很多田，房屋盡量遠離城鎮中心和磨坊以免占到種田空間
+<div style="background-color:#8CF2EB;width:550px">由於初期木頭很缺又要種很多田，房屋盡量遠離城鎮中心和磨坊以免占到種田空間
 13&nbsp;17&nbsp;23&nbsp;27的時候請在執行任務前分別蓋一房，點下城堡也別忘記蓋一房
 牧羊人要餵羊，注意前八個人擠在一起容易卡住，建議9P先吃另一羊
-吃羊和吃豬時期要隨時注意放肉，否則會卡食物</text><br>
+吃羊和吃豬時期要隨時注意放肉，否則會卡食物</div><br>
 
 1P斥侯開始動
 
